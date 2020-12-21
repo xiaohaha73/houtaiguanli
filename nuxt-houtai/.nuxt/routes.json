@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/Home",
+    "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt-houtai\\\\manage\\\\pages\\\\Home.vue",
+    "chunkName": "pages/Home",
+    "children": [
+      {
+        "name": "Home",
+        "path": "",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt-houtai\\\\manage\\\\pages\\\\Home\\\\index.vue",
+        "chunkName": "pages/Home/index",
+        "_name": "_446866cc"
+      },
+      {
+        "name": "Home-options1",
+        "path": "options1",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt-houtai\\\\manage\\\\pages\\\\Home\\\\options1.vue",
+        "chunkName": "pages/Home/options1",
+        "_name": "_1ea3063b"
+      },
+      {
+        "name": "Home-options2",
+        "path": "options2",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt-houtai\\\\manage\\\\pages\\\\Home\\\\options2.vue",
+        "chunkName": "pages/Home/options2",
+        "_name": "_1eb11dbc"
+      },
+      {
+        "name": "Home-options3",
+        "path": "options3",
+        "component": "C:\\\\Users\\\\Administrator\\\\Desktop\\\\nuxt-houtai\\\\manage\\\\pages\\\\Home\\\\options3.vue",
+        "chunkName": "pages/Home/options3",
+        "_name": "_1ebf353d"
+      }
+    ],
+    "_name": "_66c2f2e8"
+  }
+]
